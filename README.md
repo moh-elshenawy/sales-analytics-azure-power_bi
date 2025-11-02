@@ -51,7 +51,7 @@ The pipeline follows the **Medallion Architecture (Bronze → Silver → Gold)**
 
 ### 🔹 Data Pipeline (Azure Data Factory)
 *(Screenshot of your pipeline)*  
-```markdown
+
 ![Pipeline]("C:\Users\yostina\Desktop\project_data\pipline.png")
 
 
